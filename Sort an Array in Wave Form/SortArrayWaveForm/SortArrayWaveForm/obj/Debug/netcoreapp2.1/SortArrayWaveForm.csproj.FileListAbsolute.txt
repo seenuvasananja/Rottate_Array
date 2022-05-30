@@ -1,0 +1,11 @@
+D:\Rotate_array\Rottate_Array\Sort an Array in Wave Form\SortArrayWaveForm\SortArrayWaveForm\bin\Debug\netcoreapp2.1\SortArrayWaveForm.deps.json
+D:\Rotate_array\Rottate_Array\Sort an Array in Wave Form\SortArrayWaveForm\SortArrayWaveForm\bin\Debug\netcoreapp2.1\SortArrayWaveForm.runtimeconfig.json
+D:\Rotate_array\Rottate_Array\Sort an Array in Wave Form\SortArrayWaveForm\SortArrayWaveForm\bin\Debug\netcoreapp2.1\SortArrayWaveForm.runtimeconfig.dev.json
+D:\Rotate_array\Rottate_Array\Sort an Array in Wave Form\SortArrayWaveForm\SortArrayWaveForm\bin\Debug\netcoreapp2.1\SortArrayWaveForm.dll
+D:\Rotate_array\Rottate_Array\Sort an Array in Wave Form\SortArrayWaveForm\SortArrayWaveForm\bin\Debug\netcoreapp2.1\SortArrayWaveForm.pdb
+D:\Rotate_array\Rottate_Array\Sort an Array in Wave Form\SortArrayWaveForm\SortArrayWaveForm\obj\Debug\netcoreapp2.1\SortArrayWaveForm.csprojAssemblyReference.cache
+D:\Rotate_array\Rottate_Array\Sort an Array in Wave Form\SortArrayWaveForm\SortArrayWaveForm\obj\Debug\netcoreapp2.1\SortArrayWaveForm.csproj.CoreCompileInputs.cache
+D:\Rotate_array\Rottate_Array\Sort an Array in Wave Form\SortArrayWaveForm\SortArrayWaveForm\obj\Debug\netcoreapp2.1\SortArrayWaveForm.AssemblyInfoInputs.cache
+D:\Rotate_array\Rottate_Array\Sort an Array in Wave Form\SortArrayWaveForm\SortArrayWaveForm\obj\Debug\netcoreapp2.1\SortArrayWaveForm.AssemblyInfo.cs
+D:\Rotate_array\Rottate_Array\Sort an Array in Wave Form\SortArrayWaveForm\SortArrayWaveForm\obj\Debug\netcoreapp2.1\SortArrayWaveForm.dll
+D:\Rotate_array\Rottate_Array\Sort an Array in Wave Form\SortArrayWaveForm\SortArrayWaveForm\obj\Debug\netcoreapp2.1\SortArrayWaveForm.pdb
