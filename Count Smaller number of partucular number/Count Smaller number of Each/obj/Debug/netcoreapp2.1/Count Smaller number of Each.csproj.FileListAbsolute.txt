@@ -1,0 +1,11 @@
+D:\Count Smaller number of Each\Count Smaller number of Each\bin\Debug\netcoreapp2.1\Count Smaller number of Each.deps.json
+D:\Count Smaller number of Each\Count Smaller number of Each\bin\Debug\netcoreapp2.1\Count Smaller number of Each.runtimeconfig.json
+D:\Count Smaller number of Each\Count Smaller number of Each\bin\Debug\netcoreapp2.1\Count Smaller number of Each.runtimeconfig.dev.json
+D:\Count Smaller number of Each\Count Smaller number of Each\bin\Debug\netcoreapp2.1\Count Smaller number of Each.dll
+D:\Count Smaller number of Each\Count Smaller number of Each\bin\Debug\netcoreapp2.1\Count Smaller number of Each.pdb
+D:\Count Smaller number of Each\Count Smaller number of Each\obj\Debug\netcoreapp2.1\Count Smaller number of Each.csprojAssemblyReference.cache
+D:\Count Smaller number of Each\Count Smaller number of Each\obj\Debug\netcoreapp2.1\Count Smaller number of Each.csproj.CoreCompileInputs.cache
+D:\Count Smaller number of Each\Count Smaller number of Each\obj\Debug\netcoreapp2.1\Count Smaller number of Each.AssemblyInfoInputs.cache
+D:\Count Smaller number of Each\Count Smaller number of Each\obj\Debug\netcoreapp2.1\Count Smaller number of Each.AssemblyInfo.cs
+D:\Count Smaller number of Each\Count Smaller number of Each\obj\Debug\netcoreapp2.1\Count Smaller number of Each.dll
+D:\Count Smaller number of Each\Count Smaller number of Each\obj\Debug\netcoreapp2.1\Count Smaller number of Each.pdb
