@@ -1,0 +1,11 @@
+D:\Rotate_array\Rottate_Array\Majorty Element\Majority_Element\Majority_Element\bin\Debug\netcoreapp2.1\Majority_Element.deps.json
+D:\Rotate_array\Rottate_Array\Majorty Element\Majority_Element\Majority_Element\bin\Debug\netcoreapp2.1\Majority_Element.runtimeconfig.json
+D:\Rotate_array\Rottate_Array\Majorty Element\Majority_Element\Majority_Element\bin\Debug\netcoreapp2.1\Majority_Element.runtimeconfig.dev.json
+D:\Rotate_array\Rottate_Array\Majorty Element\Majority_Element\Majority_Element\bin\Debug\netcoreapp2.1\Majority_Element.dll
+D:\Rotate_array\Rottate_Array\Majorty Element\Majority_Element\Majority_Element\bin\Debug\netcoreapp2.1\Majority_Element.pdb
+D:\Rotate_array\Rottate_Array\Majorty Element\Majority_Element\Majority_Element\obj\Debug\netcoreapp2.1\Majority_Element.csprojAssemblyReference.cache
+D:\Rotate_array\Rottate_Array\Majorty Element\Majority_Element\Majority_Element\obj\Debug\netcoreapp2.1\Majority_Element.csproj.CoreCompileInputs.cache
+D:\Rotate_array\Rottate_Array\Majorty Element\Majority_Element\Majority_Element\obj\Debug\netcoreapp2.1\Majority_Element.AssemblyInfoInputs.cache
+D:\Rotate_array\Rottate_Array\Majorty Element\Majority_Element\Majority_Element\obj\Debug\netcoreapp2.1\Majority_Element.AssemblyInfo.cs
+D:\Rotate_array\Rottate_Array\Majorty Element\Majority_Element\Majority_Element\obj\Debug\netcoreapp2.1\Majority_Element.dll
+D:\Rotate_array\Rottate_Array\Majorty Element\Majority_Element\Majority_Element\obj\Debug\netcoreapp2.1\Majority_Element.pdb
