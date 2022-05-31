@@ -1,0 +1,11 @@
+D:\Rotate_array\Rottate_Array\Alternative Sorting\Alternate_Sorting\Alternate_Sorting\bin\Debug\netcoreapp2.1\Alternate_Sorting.deps.json
+D:\Rotate_array\Rottate_Array\Alternative Sorting\Alternate_Sorting\Alternate_Sorting\bin\Debug\netcoreapp2.1\Alternate_Sorting.runtimeconfig.json
+D:\Rotate_array\Rottate_Array\Alternative Sorting\Alternate_Sorting\Alternate_Sorting\bin\Debug\netcoreapp2.1\Alternate_Sorting.runtimeconfig.dev.json
+D:\Rotate_array\Rottate_Array\Alternative Sorting\Alternate_Sorting\Alternate_Sorting\bin\Debug\netcoreapp2.1\Alternate_Sorting.dll
+D:\Rotate_array\Rottate_Array\Alternative Sorting\Alternate_Sorting\Alternate_Sorting\bin\Debug\netcoreapp2.1\Alternate_Sorting.pdb
+D:\Rotate_array\Rottate_Array\Alternative Sorting\Alternate_Sorting\Alternate_Sorting\obj\Debug\netcoreapp2.1\Alternate_Sorting.csprojAssemblyReference.cache
+D:\Rotate_array\Rottate_Array\Alternative Sorting\Alternate_Sorting\Alternate_Sorting\obj\Debug\netcoreapp2.1\Alternate_Sorting.csproj.CoreCompileInputs.cache
+D:\Rotate_array\Rottate_Array\Alternative Sorting\Alternate_Sorting\Alternate_Sorting\obj\Debug\netcoreapp2.1\Alternate_Sorting.AssemblyInfoInputs.cache
+D:\Rotate_array\Rottate_Array\Alternative Sorting\Alternate_Sorting\Alternate_Sorting\obj\Debug\netcoreapp2.1\Alternate_Sorting.AssemblyInfo.cs
+D:\Rotate_array\Rottate_Array\Alternative Sorting\Alternate_Sorting\Alternate_Sorting\obj\Debug\netcoreapp2.1\Alternate_Sorting.dll
+D:\Rotate_array\Rottate_Array\Alternative Sorting\Alternate_Sorting\Alternate_Sorting\obj\Debug\netcoreapp2.1\Alternate_Sorting.pdb
